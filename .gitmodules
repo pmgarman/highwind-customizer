@@ -1,0 +1,4 @@
+[submodule "classes/cmb"]
+	path = classes/cmb
+	url = https://github.com/WebDevStudios/Custom-Metaboxes-and-Fields-for-WordPress.git
+	branch = trunk
